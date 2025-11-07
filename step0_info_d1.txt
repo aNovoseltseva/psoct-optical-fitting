@@ -1,0 +1,23 @@
+folder, path to folder where PSOCT data stored: 
+/projectnb/npbssmic/ns/NC34929/
+
+P2path, path to folder where 2P data stored:
+/projectnb/npbssmic/ns/NC34929/
+
+nslice, total number of slices in sample:
+24
+
+stitch, 0-use 2P data for stitch coordinates, 1-use PSOCT:
+1
+
+ds_factor, downsampling factor 4 means 12x12um pixel size:
+16
+
+numX, size of FOV in x-direction for stitiching:
+29
+
+numY, size of FOV in Y-direction for stitching:
+24
+
+Tile size (1 or 3 mm):
+1
